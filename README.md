@@ -3,7 +3,7 @@ So actually, I want to apologize of the unaccomplished goals. I've tried to
 
   - Learn Machine Learning course from scratch in under 5 days (but failed to complete)
   - Reaching the deadlines, don't know what to do. Just searched how to deploy Python ML model in a fastest way (yet haven't understand the data)
-  - Okay, I think the most optimum way is to just use what capabilities already in mine (with only 1 day left to do all of this). So, the only goals I give, maybe only 2, 3, and 4. (Sorry once again)
+  - Okay, I think the most optimum way is to just use what capabilities already in mine (with only 1 day left to do all of this). So, the only goals I give, maybe only 2, 4, and 5. (Sorry once again)
 
 # This is actually available too in the slides
 First, I explore the data using basic ggplot2. But I have to change it in some way so that R can interpret it.
